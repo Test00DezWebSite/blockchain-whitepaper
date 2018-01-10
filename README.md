@@ -1,2 +1,1 @@
-# blockchain-whitepaper
-Blockchain Whitepaper.
+# Blockchain Whitepaper
